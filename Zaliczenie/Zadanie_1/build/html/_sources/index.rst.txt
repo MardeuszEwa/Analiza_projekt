@@ -1,0 +1,91 @@
+Zadanie 1
+===================================
+Analiza danych
+---------------------
+Analiza danych stała się samodzielną dyscypliną wiedzy, która cieszy się dużym zainteresowaniem wśród specjalistów z wielu branż: analityków biznesowych, statystyków, architektów oprogramowania czy też osób zajmujących się sztuczną inteligencją. Wydobywanie informacji ze zbiorów danych pozwala na uzyskanie wiedzy niedostępnej w inny sposób. W tym celu dane trzeba odpowiednio przygotować, oczyścić, przetworzyć i oczywiście poddać analizie. Warto również zadbać o ich wizualizację. Do tych wszystkich zadań najlepiej wykorzystać specjalne narzędzia opracowane w języku Python. Wystarczy spojrzeć na zadania, które wymagają pracy z danymi, aby zrozumieć, że narzędzie pozwalające na czyszczenie i przetwarzanie znacznej ilości danych jest absolutną koniecznością. Python spełnia te wymagania, a jego prostota sprawia, że łatwo nauczyć się z niego korzystać.
+
+Co sprawia, że Python jest fantastyczną opcją do analizy danych?
+`````````````````````````````````````````````````````````````````````
+Python to uniwersalny, użyteczny język programowania wymyślony przez Guido van Rossuma. Po raz pierwszy wydany w 1991 roku. Jego język buduje artykuł, który sugeruje uporządkowaną metodologię, aby pomóc inżynierom oprogramowania w komponowaniu przejrzystego, spójnego kodu dla bitów i ogromnej skali projektów. Python jest stopniowo komponowany, a śmieci zbierane. Stanowi podstawę różnych idealnych modeli programowania, w tym programowania proceduralnego, obiektowego i praktycznego. Python jest często przedstawiany jako język z dołączoną baterią ze względu na obszerną bibliotekę standardową. W ciągu ostatnich kilku lat Data Science zwiększyło niesamowitą zgodę na niesławę. Tym ważnym udogodnieniem w obecnej dziedzinie jest przenoszenie ważnych danych do metodologii reklamowych i biznesowych co umożliwia rozwój organizacji. Dane są odkładane i proszone o scalenie w spójny układ. Wcześniej z tą dziedziną związane były tylko czołowe organizacje IT, ale dziś organizacje z różnych obszarów i dziedzin, na przykład biznes online, usługi medyczne, wyposażenie, i inni wykorzystują badanie informacji. Dostępne są różne gadżety do badania informacji na przykład Hadoop, programowanie R, SAS i SQL. Wreszcie, Python jest najbardziej standardowym i łatwym w użyciu narzędziem do badania informacji, które jest znane jako najnowocześniejsza armia szwajcarska na scenie kodowania, ponieważ podkreśla zorganizowane programowanie i programowanie obiektowe. Według Stack Overflow z 2018 r., najbardziej standardowego języka programowania na świecie i nazwanym najbardziej rozsądnym językiem dla mechanicznych zespołów i aplikacji do nauki o danych jest Python. Ponadto Python wygrał Centre of Architects w badaniu Hacker Rank 2018 Creator.
+
+Python to wielofunkcyjny, maksymalnie interpretowany język, który ma wiele zalet do zaoferowania. Język programowania obiektowego jest powszechnie używany do usprawniania dużych złożonych zestawów danych. Oprócz dynamicznej semantyki i niezmierzonych możliwości RAD (szybkiego tworzenia aplikacji), Python jest również intensywnie wykorzystywany do tworzenia skryptów. Jest jeszcze jeden sposób zastosowania Pythona – jako języka sprzęgającego.
+
+Kolejną zaletą Pythona jest wysoka czytelność, która pomaga inżynierom zaoszczędzić czas, wpisując mniej linii kodu w celu wykonania zadań. Będąc szybkim, Python dobrze sobie radzi z analizą danych. A to z powodu dużego wsparcia; dostępności całego mnóstwa bibliotek typu open source do różnych celów, w tym między innymi do obliczeń naukowych. Dlatego wcale nie jest zaskakujące, że twierdzi się, że jest preferowanym językiem programowania dla nauki o danych. Dostępny jest szereg unikalnych funkcji, które sprawiają, że Python jest opcją numer jeden do analizy danych. Zobaczyć to uwierzyć. Po prostu prześledzimy każdą opcję po kolei.
+
+* **Łatwy do nauki**
+Python skupia się zarówno na prostocie, jak i czytelności, zapewniając jednocześnie mnóstwo przydatnych opcji dla analityków danych/naukowców.
+W rezultacie nawet nowicjusze mogą z łatwością używać jego stosunkowo prostej składni do tworzenia skutecznych rozwiązań dla złożonych scenariuszy za pomocą zaledwie kilku linijek kodu.
+
+* **Elastyczny**
+Niezwykła wszechstronność Pythona to kolejny potężny atrybut, który sprawia, że jest popularny wśród naukowców zajmujących się danymi i analityków. W rezultacie można tworzyć modele danych, usystematyzować zestawy danych, opracować algorytmy oparte na ML, usługi sieciowe, a eksplorację danych można wykorzystać do wykonania różnych zadań w krótkim czasie.
+
+* **Ogromna kolekcja bibliotek**
+Ma wiele całkowicie darmowych bibliotek, które są otwarte dla publiczności. Jest to kluczowy czynnik, który sprawia, że Python jest niezbędny do analizy danych, a także do nauki o danych. Użytkownicy zajmujący się nauką o danych są prawdopodobnie zaznajomieni z nazwami takimi jak Pandas, SciPy, StatsModels i innymi bibliotekami, które są szeroko stosowane w społeczności data science. Warto zauważyć, że biblioteki stale się rozwijają, dostarczając solidne rozwiązania.
+
+* **Grafika i wizualizacja**
+Grafika i wizualizacja informacji są powszechnie znane z tego, że są znacznie łatwiejsze do zrozumienia, opracowania i zapamiętania.
+Python zapewnia użytkownikom mnóstwo różnych opcji wizualizacji. W konsekwencji jest to obowiązkowa metoda dla każdej nauki o danych, a nie tylko przetwarzania danych. Opracowując liczne wykresy i grafiki, a także interaktywne wykresy gotowe do użycia w Internecie, analitycy danych mogą zwiększyć dostępność danych.
+
+* **Wbudowane narzędzia do analizy danych**
+Wbudowane narzędzia analityczne Pythona sprawiają, że jest to idealne narzędzie do przetwarzania złożonych danych. Narzędzia Pythona mogą również łatwo penetrować wzorce, korelować informacje w obszernych zestawach i zapewniać lepszy wgląd w inne krytyczne macierze oceny wydajności.
+
+Python dla analizy danych
+```````````````````````````````
+W porównaniu do przetwarzania ilościowego i logicznego Python ma unikalną atrybucję i jest łatwy w użyciu. To jest wieloletni lider handlowy i często szeroko stosowany w różnych branżach, takich jak ropa i gaz, zarządzanie sygnałami i fundusze. Ponadto Python został wykorzystany do wzmocnienia wewnętrznych fundamentów Google i tworzył aplikacje takie jak YouTube. Python jest powszechnie używanym, bardzo popularnym urządzeniem i elastycznym język, który został podany do wiadomości publicznej. Jego potężna biblioteka służy do kontroli informacji i jest bardzo łatwy do nauczenia dla początkujących. Oprócz tego, że pozostaje autonomicznym stadionem, skutecznie scala wszelkie obecne ramy, które można wykorzystać do rozwiązania najbardziej zaskakujących problemów. Używa go większość banków do przetwarzania informacji. Organizacje wykorzystują je do percepcji i przygotowania, a organizacje zajmujące się wskaźnikami klimatycznymi, na przykład analityka predykcyjna, również ją stosują.bPython jest preferowany w stosunku do innych narzędzi Data Science, które można przypisać do różnych pól. Python jest brany pod uwagę jako prymitywny język, a każdy substytut lub naukowiec z prostymi danymi podstawowymi może zacząć eksperymentować. Czas potrzebny na analizę kodu i różne ograniczenia w usuwaniu sygnatur programistycznych są ograniczone. W porównaniu do innych języków programowania (takich jak C, Java i C#) wykonanie kodu jest prostsze, co pomaga projektantom i architektom w ich nauce. Python zapewnia obszerną bibliotekę baz danych, która obejmuje sztuczną wiedzę i sztuczną inteligencję. Najpopularniejsze biblioteki to Scikit Learn, TensorFlow, Seaborn, Pytorch i Matplotlib. Wiele zasobów operacyjnych Data Science i Sztucznej Inteligencji jest dostępnych online dla skutecznego dostępu. W porównaniu do innych języków programowania takich jak Java i R, Python jest uważany za bardziej elastyczny i szybszy język. Zapewnia elastyczność w rozwiązywaniu problemów, których nie da się rozwiązać przy wykorzystaniu innych języków programowania. Wiele organizacji używa go do tworzenia różnego rodzaju aplikacji i szybkich urządzeń. W Pythonie istnieją różne alternatywy percepcyjne. Biblioteka Matplotlib zapewnia solidną podstawę, na której można tworzyć różne biblioteki takie jak Ggplot, Panda Drawing i PyTorch. Pakiety te pomagają w opracowaniu struktury, która może być używana do projektowania stron internetowych i graficznych.
+
+Excel vs Python
+-------------------------
+Czas na zmiany
+```````````````````````
+Konsultanci i eksperci IT wyrazili swoje obawy dotyczące tego, jak kruche może być oprogramowanie do arkuszy kalkulacyjnych. Excel zmaga się z takimi problemami jak:
+
+* **Objętość danych** - firmy małe i duże, najprawdopodobniej korzystały z Excela w pewnym momencie swojego rozwoju. Jednak wraz z rozwojem organizacje mają do czynienia z coraz większą liczbą arkuszy kalkulacyjnych, co skutkuje złożonymi problemami analitycznymi.
+* **Błędy składni** - Excel był uważany za eksperta w kopiowanii i wklejaniu danych w określonych zakresach komórek. Może to jednak powodować wiele błędów podczas ręcznego wprowadzania formuł.
+* **Zagrożenia bezpieczeństwa** - firmy muszą być ostrożne, jeśli chodzi o rodzaj informacji, które są przechowywane w arkuszach Excela na wypadek nadużyć i cyberataków. Program Excel ma pewne zasady bezpieczeństwa, którymi należy się zająć.
+
+Excel vs Python: kto wygrywa?
+```````````````````````````````````
+Dowody sugerują, że oba narzędzia programowe mają swoje miejsce w określonych zadaniach. Excel to świetne narzędzie dla początkujących, które jest szybkim i łatwym sposobem na wykonanie analizy. Jednak w dzisiejszych czasach, z dużymi zestawami danych oraz bardziej złożoną analizą i automatyzacją, Python zapewnia narzędzia, techniki i moc obliczeniową, których w wielu przypadkach brakuje Excelowi. W końcu Python jest potężniejszy, szybszy, zdolny do lepszej analizy danych i korzysta z bardziej inkluzywnego, opartego na współpracy systemu wsparcia.
+
+Python to niezbędna umiejętność dla analityków danych, a teraz nadszedł czas na naukę. Alex Zhivotov również skomentował: „Możesz być dobrym analitykiem danych bez znajomości Pythona, ale jeśli chcesz się wyróżnić, bądź gwiazdą analizy danych i postępów, więć musisz nauczyć się Pythona”.
+
+Jeśli chcesz czerpać korzyści, takie jak wyższe wynagrodzenie, lepsze możliwości kariery i utrzymanie umiejętności przydatnych w czwartej rewolucji przemysłowej, naucz się Pythona.
+
+Alternatywne narzędzia
+------------------------
+R program
+````````````````
+Analiza danych przy użyciu języka programowania R, języka open-source używanego do obliczeń statystycznych lub grafiki. Ten język programowania jest często używany w analizie statystycznej i eksploracji danych. Może być używany do analityki w celu identyfikacji wzorców i budowania praktycznych modeli. R może nie tylko pomóc w analizie danych organizacji, ale także być używany do pomocy w tworzeniu i rozwijaniu aplikacji, które wykonują analizy statystyczne.
+
+Dzięki graficznemu interfejsowi użytkownika do tworzenia programów, R obsługuje różne techniki modelowania analitycznego, takie jak klasyczne testy statystyczne, grupowanie, analiza szeregów czasowych, modelowanie liniowe i nieliniowe i wiele innych. Interfejs ma cztery okna: okno skryptu, okno konsoli, obszar roboczy i okno historii oraz interesujące karty (pomoc, pakiety, wykresy i pliki). R umożliwia tworzenie gotowych do publikacji wykresów i grafik oraz przechowywanie analiz wielokrotnego użytku dla przyszłych danych.
+
+Jakie są zalety R Analytics?
+```````````````````````````````````
+Analityka biznesowa w R pozwala użytkownikom efektywniej analizować dane biznesowe. Oto niektóre z głównych korzyści realizowanych przez firmy stosujące R w swoich programach analitycznych:
+
+**Demokratyzacja analityki w całej organizacji:** R może pomóc w demokratyzacji analityki, udostępniając użytkownikom biznesowym interaktywne narzędzia do wizualizacji danych i raportowania. R może być używany do nauki o danych przez osoby nie zajmujące się danymi, dzięki czemu użytkownicy biznesowi i obywatele mogą podejmować lepsze decyzje biznesowe. Analityka R może również skrócić czas poświęcany na przygotowanie danych i konflikty danych, umożliwiając analitykom danych skupienie się na bardziej złożonych inicjatywach związanych z nauką o danych.
+
+**Dostarczanie głębszych, dokładniejszych informacji:** Obecnie firmy odnoszące największe sukcesy opierają się na danych, a zatem ich analiza ma wpływ na prawie każdy obszar działalności. I chociaż istnieje cały szereg potężnych narzędzi do analizy danych, R może pomóc w tworzeniu potężnych modeli do analizy dużych ilości danych. Dzięki bardziej precyzyjnemu gromadzeniu i przechowywaniu danych za pomocą analiz R, firmy mogą dostarczać użytkownikom więcej cennych informacji. Silniki analityczne i statystyczne korzystające z języka R zapewniają głębszy i dokładniejszy wgląd w biznes. R może służyć do opracowywania bardzo szczegółowych, dogłębnych analiz.
+
+**Wykorzystanie Big Data:** R może pomóc w zapytaniach dotyczących Big Data i jest używany przez wielu liderów branży do wykorzystywania Big Data w całej firmie. Dzięki analityce języka R organizacje mogą ujawniać nowe spostrzeżenia w swoich dużych zestawach danych i nadać sens swoim danym. R może obsługiwać te duże zbiory danych i jest prawdopodobnie tak samo łatwe, jeśli nie łatwiejsze w użyciu dla większości analityków, jak każde inne dostępne obecnie narzędzie analityczne.
+
+**Tworzenie interaktywnych wizualizacji danych:** R jest również pomocny przy wizualizacji danych i eksploracji danych, ponieważ obsługuje tworzenie wykresów i diagramów. Obejmuje możliwość tworzenia interaktywnych wizualizacji oraz wykresów i wykresów 3D, które są pomocne w komunikacji z użytkownikami biznesowymi.
+
+Wdrożyenie języka R
+``````````````````````````
+Chociaż programowanie w języku R zostało pierwotnie zaprojektowane dla statystyków, można je zaimplementować do różnych zastosowań, w tym do analiz predykcyjnych, modelowania danych i eksploracji danych. Firmy mogą wdrażać R, aby tworzyć niestandardowe modele gromadzenia danych, klastrowania i analiz. Analityka R może stanowić cenny sposób na szybkie opracowywanie modeli ukierunkowanych na zrozumienie określonych obszarów działalności i dostarczanie dostosowanych informacji na temat codziennych potrzeb.
+
+Analizy R mogą być wykorzystywane do następujących celów:
+Testy statystyczne, Analizy nakazowe, Analizy predykcyjne, Analiza szeregów czasowych, Modele regresji, Eksploracja danych, Prognozowanie, Eksploracja tekstu, Eksploracja danych, Analiza wizualna, Analityka internetowa, Analityka mediów społecznościowych, Analiza sentymentu.
+
+R może być używany do rozwiązywania rzeczywistych problemów biznesowych poprzez turbodoładowanie programu analitycznego organizacji. Można go zintegrować z platformą analityczną firmy, aby pomóc użytkownikom w maksymalnym wykorzystaniu ich danych. Dzięki obszernej bibliotece funkcji R i zaawansowanym technikom statystycznym, R może być używany do stosowania modeli statystycznych do analizy i lepszego zrozumienia trendów w danych. Może pomóc w przewidywaniu potencjalnych wyników biznesowych, identyfikowaniu szans i zagrożeń oraz tworzeniu interaktywnych pulpitów nawigacyjnych w celu uzyskania pełnego obrazu danych. Może to prowadzić do lepszych decyzji biznesowych i zwiększenia przychodów.
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents: 
+   
+:ref:`genindex`
+:ref:`modindex`
+:ref:`search`
+
+
